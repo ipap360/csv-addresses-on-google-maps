@@ -11,7 +11,7 @@ Java utility that queries customer addresses provided in CSV file against Google
 
 ### Usage
 
-See sample.csv for the expected csv format
+See csv.headers.template for the expected csv format
 
 Required program arguments: 0: YOUR_GOOGLE_API_KEY, 1: YOUR_FILE.csv
 
